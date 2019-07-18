@@ -1,0 +1,8 @@
+Requirements Gathering
+Data Wrangling
+Data Cleaning
+Data Visualization
+David McCandless
+
+Data Visualization Mantra:
+Overview First, Zoom and Filter, Details in demand

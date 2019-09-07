@@ -1,6 +1,6 @@
 Build Docker Container
 
-docker build -t rf-api
+docker build -t rf-api .
 
 Run the docker file
 docker run -p 5000:5000 rf-api
